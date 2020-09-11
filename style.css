@@ -1,0 +1,22 @@
+body {
+    max-width: 1024px;
+    font-family: sans-serif;
+    text-align:center;
+}
+pre.code {
+    margin-top: 0px;
+    display:inline-block;
+    text-align: left;
+}
+
+ul {
+    max-width:300px;
+    margin-top: 0px;
+    margin-bottom: 0px;	
+    display:inline-block;
+    text-align: left;
+}
+
+li {
+    text-align: left;
+}
