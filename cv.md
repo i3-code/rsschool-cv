@@ -9,7 +9,7 @@
 My main aim is to study and get a good job as a front-end developer. It's my dream. I spend a lot of time on programming and learning English and I hope it'll help me.
 
 ### Skills
-Perl, Python, Lua, a bit of SQL...
+Perl, Lua, Python, a bit of SQL...
 
 ### Code samples
 ```python
