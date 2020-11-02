@@ -9,11 +9,11 @@
 My main aim is to study and get a good job as a front-end developer. It's my dream. I spend a lot of time on programming and learning English and I hope it'll help me
 
 ### Skills:
-Perl, Lua, Python, a bit of SQL, now I trying to learn JS and CSS
+Perl, Lua, Python, a bit of SQL, now I'm trying to learn JS and CSS
 
 ### Code samples:
 - __[Virtual keyboard](https://rolling-scopes-school.github.io/i3-code-JS2020Q3/virtual-keyboard)__ - Virtual keyboard with adaptive design, vertical caret moving, multiline selection, text insertion, etc.
-- __[Momentum](https://rolling-scopes-school.github.io/i3-code-JS2020Q3/momentum)__ - Simple app width clock and scheduled background changing
+- __[Momentum](https://rolling-scopes-school.github.io/i3-code-JS2020Q3/momentum)__ - Simple app with clock and scheduled background changing
 - __[Shelter](https://rolling-scopes-school.github.io/i3-code-JS2020Q3/shelter)__ - Adaptive website(3 breakpoints) with hamburger menu, slider and pagination examples
 - __[Calculator](https://rolling-scopes-school.github.io/i3-code-JS2020Q3/calculator)__ - Simple JS calculator
 
@@ -22,4 +22,4 @@ Perl, Lua, Python, a bit of SQL, now I trying to learn JS and CSS
 - __[Codewars Profile](https://www.codewars.com/users/i3-code)__ - My Codewars profile
 
 ### English:
-B2 according to the results of the last test. I'm still learning.
+B1 according to the results of the last test. I'm still learning.
