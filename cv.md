@@ -12,6 +12,8 @@ My main aim is to study and get a good job as a front-end developer. It's my dre
 Perl, Lua, Python, a bit of SQL, now I'm trying to learn JS and CSS
 
 ### Code samples:
+- __[English For Kids](https://rolling-scopes-school.github.io/i3-code-JS2020Q3/english-for-kids)__ - App for kids to learn English(train and game modes).
+- __[Gem Puzzle](https://rolling-scopes-school.github.io/i3-code-JS2020Q3/gem-puzzle)__ - Classic sliding puzzle game(AKA 15) with choosable board size
 - __[Virtual keyboard](https://rolling-scopes-school.github.io/i3-code-JS2020Q3/virtual-keyboard)__ - Virtual keyboard with adaptive design, vertical caret moving, multiline selection, text insertion, etc.
 - __[Momentum](https://rolling-scopes-school.github.io/i3-code-JS2020Q3/momentum)__ - Simple app with clock and scheduled background changing
 - __[Shelter](https://rolling-scopes-school.github.io/i3-code-JS2020Q3/shelter)__ - Adaptive website(3 breakpoints) with hamburger menu, slider and pagination examples
