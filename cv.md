@@ -12,6 +12,7 @@ My main aim is to study and get a good job as a front-end developer. It's my dre
 Perl, Lua, Python, a bit of SQL, now I'm trying to learn JS and CSS
 
 ### Code samples:
+- __[Ibb & Obb](https://ibbobb.herokuapp.com)__ - A JavaScript clone of 2D game that can be played solo, or even online. Final project of front-end course of Rolling Scopes School.
 - __[COVID-19 Dashboard](https://i3-code-covid-dashboard.netlify.app)__ - RESTful API demonstration task, written with a little help of React framework.
 - __[English For Kids](https://rolling-scopes-school.github.io/i3-code-JS2020Q3/english-for-kids)__ - App for kids to learn English(train and game modes).
 - __[Gem Puzzle](https://rolling-scopes-school.github.io/i3-code-JS2020Q3/gem-puzzle)__ - Classic sliding puzzle game(AKA 15) with choosable board size
