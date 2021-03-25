@@ -29,6 +29,7 @@ JS, Perl, Lua, Python, a bit of SQL. HTML, CSS(SASS)
 
 ### Education:
 
+- **[JS course cert](https://app.rs.school/certificate/yry2w6bh)** - Rolling Scopes School JS/FE 2020 Q3 course completion cert.
 - **[Python cert](https://stepik.org/cert/737684)** - Python course cert on Stepik.
 - **[Codewars Profile](https://www.codewars.com/users/i3-code)** - My Codewars profile
 
